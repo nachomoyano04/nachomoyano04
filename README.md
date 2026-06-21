@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ignacio 👋
 
-<!--
-**nachomoyano04/nachomoyano04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Development Technician
 
-Here are some ideas to get you started:
+📚 Computer Science Student at FAMAF (UNC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in:
+- Software Engineering
+- Algorithms & Data Structures
+- Systems Programming
+- Computer Architecture
+
+🛠️ Technologies:
+Java • C • C# • .NET • JavaScript • Haskell • Verilog
+
+🚀 Looking for internships, trainee and junior opportunities.
